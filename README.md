@@ -4,6 +4,8 @@
 
 
 ##  Overview
+**Machine Learning Programming**   
+This lab demonstrates key data preprocessing techniques using Python and Pandas within a Jupyter Notebook.  
 
 This lab focuses on essential data preprocessing techniques using Python and Pandas. The notebook includes step-by-step examples for:
 - Tidying unstructured data
@@ -14,7 +16,7 @@ This lab focuses on essential data preprocessing techniques using Python and Pan
 ---
 
 ##  Contents
-
+A
 | File                     | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
 | `week5Lab_Students.ipynb`| Main notebook with all code and markdown                                    |
